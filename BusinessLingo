@@ -1,18 +1,1 @@
-<!DOCTYPE html>
-<html>
-<style>
-body {
-  background-image: url('https://s3.amazonaws.com/StartupStockPhotos/uploads/20160503/6.jpg');
-  background-repeat: no-repeat;
-  background-attachment: fixed; 
-  background-size: 100% 100%;
-}
-</style>
-<body>
-
-<h2>BusinessLingo</h2>
-
-<p>Your Online Dictonary for every Businessmen/women</p>
-
-</body>
-</html>
+ 
